@@ -7,7 +7,7 @@
 
 ## Hey 😉,
 
-I'm Rafael Câmara and I'm a UI Engineer who has a strong basis in design. I consider myself with a specialist profile focused on learning more and more about what I love to do: build amazing products to amazing communities.
+I'm Rafael Câmara and I'm a UI Engineer who has a strong basis in design. I consider myself with a specialist profile focused on learning more and more about what I love to do: **build amazing products to amazing communities**.
 
 In my trajectory, I have founded some startups and built some large scale products in which I could apply all my knowledge in Software Engineering, UI/UX, and Agile methodologies. For me, It doesn't matter if I'm developing a product for my own company or for a client, as long as I'm changing the environment in which I'm inserted for the better. We should always use our skills to improve the communities as much as possible. This is our duty in my opinion.
 
