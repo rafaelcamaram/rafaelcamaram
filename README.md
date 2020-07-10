@@ -15,7 +15,7 @@ What do we need to build stellar products? I would say: **Consistency**, **Best 
 
 - 🔭 I’m currently focused working with React/React Native applications
 - 🌱 I’m currently learning more about AWS
-- ⚡ Main Skills used at the moment:
-  - React | React Native | Redux | Styled Components | Svelte | Node | GraphQL | Gatsby
+- ⚡ Main skills used at the moment:
+  - React | React Native | Redux | Svelte | Node | GraphQL | Gatsby
 
 > Rafael Câmara
