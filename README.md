@@ -14,8 +14,7 @@ In my trajectory, I have founded some startups and built some large scale produc
 What do we need to build stellar products? I would say: **Consistency**, **Best Practices**, and **Passion** about what we're doing!
 
 - 🔭 I’m currently focused working with React/React Native applications
-- 🌱 I’m currently learning more about Solidity and Cadence
 - ⚡ Main skills used at the moment:
-  - React | React Native | Svelte | GraphQL | Next
+  - React | React Native | GraphQL | Next
 
 > Rafael Câmara
