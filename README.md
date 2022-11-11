@@ -5,7 +5,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@rafaelcamaram-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rafaelcamaram/)](https://medium.com/@rafaelcamaram/)
 [![Gmail Badge](https://img.shields.io/badge/-rafaelcamaram@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelcamaram@gmail.com)](mailto:rafaelcamaram@gmail.com)
 
-## Hey 😉,
+## Hey 😉
 
 I'm Rafael Câmara and I'm a UI Engineer who has a strong basis in design. I consider myself with a specialist profile focused on learning more and more about what I love to do: **build amazing products to amazing communities**.
 
